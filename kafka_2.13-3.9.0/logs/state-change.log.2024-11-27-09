@@ -1,0 +1,3 @@
+[2024-11-27 09:52:52,337] INFO [Broker id=1] Transitioning 1 partition(s) to local leaders. (state.change.logger)
+[2024-11-27 09:52:52,340] INFO [Broker id=1] Creating new partition quickstart-events-0 with topic id NxGCIjK8R1CSMg0hISuFjQ. (state.change.logger)
+[2024-11-27 09:52:52,365] INFO [Broker id=1] Leader quickstart-events-0 with topic id Some(NxGCIjK8R1CSMg0hISuFjQ) starts at leader epoch 0 from offset 0 with partition epoch 0, high watermark 0, ISR [1], adding replicas [] and removing replicas [] . Previous leader None and previous leader epoch was -1. (state.change.logger)
