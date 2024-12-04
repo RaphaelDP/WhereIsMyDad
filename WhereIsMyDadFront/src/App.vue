@@ -1,10 +1,10 @@
 <script setup lang="ts">
-import Map from './components/Map.vue';
-import HelloWorld from './components/HelloWorld.vue';
+import Track from './components/Track.vue';
 </script>
 
 <template>
-  <Map msg="Leaflet" />
+  <h1>Where is my dads ?</h1>
+  <Track msg="Leaflet" />
   
 </template>
 
